@@ -46,5 +46,5 @@ int lengthOfLongestSubstring(string s) {
         }
         return ans;
     }
-i/p=abcabcbba
-o/p=3
+input =abcabcbba
+output=3
